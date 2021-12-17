@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Configuration.CredentialsConfiguration.html",
-          "hash": "b8M65LwfjEb25fKQCAWEwA=="
+          "hash": "QAdPPbPX92EmCX+3/JSh9w=="
         }
       },
       "is_incremental": false,
@@ -138,7 +138,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Exceptions.DatabaseResolutionException.html",
-          "hash": "R5yeHedJjf0HpiSO+1fekg=="
+          "hash": "hJQpzxOjeUgrPm6D5k747A=="
         }
       },
       "is_incremental": false,
